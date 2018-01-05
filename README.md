@@ -6,6 +6,8 @@ Follow these Steps
 
 0.Change to this directory 
 
+cd installOpenbatonZabbix/
+
 1.Set permission to scripts 
 
 chmod +x *.sh 
