@@ -74,7 +74,7 @@ openbaton_nfvo_mysql_user_password=root                 # Default is 'changeme' 
 ##########################################
 #### Open Baton additional components ####
 ##########################################
-
+#
 openbaton_plugin_vimdriver_test=yes                         # Default is 'YES' therefore if left empty ('openbaton_plugin_vimdriver_test=') or commented the 'openbaton_plugin_vimdriver_test' driver will be installed (this option is valid only for develop installation)
 openbaton_plugin_vimdriver_openstack=yes                    # Default is 'YES' therefore if left empty ('openbaton_plugin_vimdriver_openstack=') or commented the 'openbaton_plugin_vimdriver_openstack' debian package will be installed
 openbaton_plugin_monitoring_zabbix=yes                       # Default is 'NO' therefore if left empty ('openbaton_plugin_monitoring_zabbix=') or commented the 'openbaton_plugin_monitoring_zabbix' debian package will be installed
