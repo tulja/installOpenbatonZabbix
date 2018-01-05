@@ -150,8 +150,8 @@ sleep 3
 }
 
 install_dependences
-# install_openbaton
-# install_zabbixserver
+install_openbaton
+install_zabbixserver
 
 "$@"
 
