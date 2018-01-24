@@ -18,5 +18,5 @@ chmod +x *.sh
 
 3.Run setupvnf.sh
 
-./setupvnf.sh
+./setup-vnf.sh
 
